@@ -1,0 +1,15 @@
+{
+  "name": "google.cl",
+  "version": "1.0.0",
+  "description": "Aplicaciòn linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Exequiel abrilot",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "yargs": "^12.0.2"
+  }
+}
